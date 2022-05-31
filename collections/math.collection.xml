@@ -1,0 +1,62 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+  <md:content-id>col11409</md:content-id>
+  <md:title>Math</md:title>
+  
+  
+  <md:license url="http://creativecommons.org/licenses/by/3.0/"/>
+  <md:language>en</md:language>
+
+  
+
+  
+  
+  
+  
+  
+
+  <md:uuid>185fa140-6f0d-4770-9832-d14871a87ecd</md:uuid>
+<md:slug>math</md:slug>
+</metadata>
+
+  <col:content>
+    
+      
+        
+      <col:subcollection>
+        <md:title>Arithmetic</md:title>
+        
+        
+        
+
+        <col:content>
+          
+    
+      <col:module document="m43266"/>
+        
+      
+    
+    
+      <col:module document="m43268"/>
+        
+      
+    
+        </col:content>
+      </col:subcollection>
+    
+    
+      
+        
+      <col:subcollection>
+        <md:title>Geometry</md:title>
+        
+        
+        
+
+        <col:content>
+          
+        </col:content>
+      </col:subcollection>
+    
+  </col:content>
+</col:collection>

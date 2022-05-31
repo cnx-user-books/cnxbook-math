@@ -1,0 +1,133 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Basic Arithmetic Operations</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m43266</md:content-id>
+  <md:title>Basic Arithmetic Operations</md:title>
+  <md:abstract>Understanding the basic arithmetic operations namely Addition, Subtraction, Multiplication and Division.</md:abstract>
+  <md:uuid>16e9b363-b2ff-495d-8dc9-4a6e77f39ec7</md:uuid>
+</metadata>
+
+<content>
+    <section id="id1165208443054">
+      <title>About - Operation</title>
+      <section id="id1165194297291">
+        <title>Insight</title>
+        <list id="id1165199680675" list-type="bulleted">
+          <item>Components<list id="id1165209078093" list-type="bulleted"><item><emphasis>Operation</emphasis>: 2 + 3</item><item><emphasis>Operator</emphasis>: + (plus)</item><item><emphasis>Operands</emphasis>: 2 and 3</item></list></item>
+          <item>Properties<list id="id1165193830379" list-type="bulleted"><item><emphasis>Commutative</emphasis>: <emphasis effect="bold">a</emphasis> $ <emphasis effect="bold">b</emphasis> = <emphasis effect="bold">b</emphasis> $ <emphasis effect="bold">a</emphasis></item><item><emphasis>Associative</emphasis>: (<emphasis effect="bold">a</emphasis> $ <emphasis effect="bold">b</emphasis>) $ <emphasis effect="bold">c</emphasis> = <emphasis effect="bold">a</emphasis> $ (<emphasis effect="bold">b</emphasis> $ <emphasis effect="bold">c</emphasis>)</item></list></item>
+        </list>
+      </section>
+    </section>
+    <section id="id1165195219712">
+      <title>About - Addition</title>
+      <section id="id1165197834627">
+        <title>Insight</title>
+        <list id="id1165201600434" list-type="bulleted">
+          <item>Plus</item>
+          <item>Sum</item>
+          <item>Summation</item>
+          <item>
+            <emphasis>Totalling</emphasis>
+          </item>
+          <item>
+            <emphasis>Counting</emphasis>
+          </item>
+          <item>Properties<list id="id1165193921645" list-type="bulleted"><item>Commutative: <emphasis effect="bold">a</emphasis> + <emphasis effect="bold">b</emphasis> = <emphasis effect="bold">b</emphasis> + <emphasis effect="bold">a</emphasis></item><item>Associative: (<emphasis effect="bold">a</emphasis> + <emphasis effect="bold">b</emphasis>) + <emphasis effect="bold">c</emphasis> = <emphasis effect="bold">a</emphasis> + (<emphasis effect="bold">b</emphasis> + <emphasis effect="bold">c</emphasis>)</item></list></item>
+        </list>
+      </section>
+    </section>
+    <section id="id1165201520903">
+      <title>About - Subtraction</title>
+      <section id="id1165193838477">
+        <title>Insight</title>
+        <list id="id1165196641994" list-type="bulleted">
+          <item>Minus</item>
+          <item>
+            <emphasis>Difference</emphasis>
+          </item>
+        </list>
+        <para id="id1165196224951">Properties</para>
+        <list id="id1165213624429" list-type="bulleted">
+          <item>Not Commutative: <emphasis effect="bold">a</emphasis> - <emphasis effect="bold">b</emphasis> ≠ <emphasis effect="bold">b</emphasis> - <emphasis effect="bold">a</emphasis></item>
+          <item>Not Associative: (<emphasis effect="bold">a</emphasis> - <emphasis effect="bold">b</emphasis>) - <emphasis effect="bold">c</emphasis> ≠ <emphasis effect="bold">a</emphasis> - (<emphasis effect="bold">b</emphasis> - <emphasis effect="bold">c</emphasis>)</item>
+        </list>
+      </section>
+    </section>
+    <section id="id1165196541646">
+      <title>About - Multiplication</title>
+      <section id="id1165193840028">
+        <title>Insight</title>
+        <list id="id1165199042011" list-type="bulleted">
+          <item>Product</item>
+          <item>Shortcut of <emphasis>repeated addition</emphasis></item>
+          <item><emphasis effect="bold">a</emphasis> X <emphasis effect="bold">b</emphasis> = <emphasis effect="bold">a </emphasis><emphasis>times</emphasis><emphasis effect="bold"> b</emphasis>'s = <emphasis effect="bold">b</emphasis> + <emphasis effect="bold">b</emphasis> + <emphasis effect="bold">b</emphasis> + ... <emphasis effect="bold">a</emphasis> times</item>
+          <item>Properties<list id="id1165201629967" list-type="bulleted"><item>Commutative: <emphasis effect="bold">a</emphasis> X <emphasis effect="bold">b</emphasis> = <emphasis effect="bold">b</emphasis> X <emphasis effect="bold">a</emphasis></item><item>Associative: (<emphasis effect="bold">a</emphasis> X <emphasis effect="bold">b</emphasis>) X <emphasis effect="bold">c</emphasis> = <emphasis effect="bold">a</emphasis> X (<emphasis effect="bold">b</emphasis> X <emphasis effect="bold">c</emphasis>)</item></list></item>
+        </list>
+      </section>
+      <section id="id1165210229107">
+        <title>Exercises</title>
+        <exercise id="id1165197882243">
+          <problem id="oo-id1165196232764">
+            <para id="id1977546">Why is <emphasis effect="bold">a</emphasis> X <emphasis effect="bold">b</emphasis> always equal to <emphasis effect="bold">b</emphasis> X <emphasis effect="bold">a</emphasis>?</para>
+          </problem>
+          <solution id="oo-id1165195065888">
+            <para id="id1165193045809">Visualization: Draw a grid with <emphasis effect="bold">a</emphasis> rows and <emphasis effect="bold">b</emphasis> columns and rotate the page 90 degress so that the rows appear as columns and columns appear as rows. Now we have <emphasis effect="bold">b</emphasis> rows and <emphasis effect="bold">a</emphasis> columns.</para>
+            <para id="id1165208292177"><emphasis effect="bold">a</emphasis> X <emphasis effect="bold">b</emphasis> = <emphasis effect="bold">a</emphasis> times <emphasis effect="bold">b</emphasis>'s = <emphasis effect="bold">b</emphasis> times <emphasis effect="bold">a</emphasis>'s = <emphasis effect="bold">b</emphasis> X <emphasis effect="bold">a</emphasis>.</para>
+          </solution>
+        </exercise>
+        <exercise id="id1165193334424">
+          <problem id="oo-id1165211876034">
+            <para id="id1165196963324">If <emphasis effect="bold">a</emphasis> X <emphasis effect="bold">b</emphasis> = <emphasis effect="bold">c</emphasis> then why is <emphasis effect="bold">c</emphasis> ÷ <emphasis effect="bold">a</emphasis> = <emphasis effect="bold">b</emphasis> and <emphasis effect="bold">c</emphasis> ÷ <emphasis effect="bold">b</emphasis> = <emphasis effect="bold">a</emphasis>?</para>
+          </problem>
+          <solution id="oo-id1165201925585">
+            <para id="id6407354">Note: <emphasis effect="bold">a</emphasis> times <emphasis effect="bold">b</emphasis>'s = <emphasis effect="bold">b</emphasis> times <emphasis effect="bold">a</emphasis>'s = <emphasis effect="bold">c</emphasis>.</para>
+            <para id="id1165193046156">Visualization: Draw a grid with <emphasis effect="bold">a</emphasis> rows and <emphasis effect="bold">b</emphasis> columns, or; <emphasis effect="bold">b</emphasis> rows and <emphasis effect="bold">a</emphasis> columns.</para>
+            <para id="id1165197880399">If we repeatedly take away <emphasis effect="bold">b</emphasis>'s then that can be done <emphasis effect="bold">a</emphasis> times. Therefore <emphasis effect="bold">c</emphasis> ÷ <emphasis effect="bold">b</emphasis> = <emphasis effect="bold">a</emphasis>.</para>
+            <para id="id1165207958434">If we repeatedly take away <emphasis effect="bold">a</emphasis>'s then that can be done <emphasis effect="bold">b</emphasis> times. Therefore <emphasis effect="bold">c</emphasis> ÷ <emphasis effect="bold">a</emphasis> = <emphasis effect="bold">b</emphasis>.</para>
+          </solution>
+        </exercise>
+      </section>
+    </section>
+    <section id="id1165193046423">
+      <title>About - Division</title>
+      <section id="id6659057">
+        <title>Insight</title>
+        <list id="id1165195208892" list-type="bulleted">
+          <item>
+            <emphasis>Sharing or Distributing equally</emphasis>
+          </item>
+          <item>Shortcut of <emphasis>repeated subtraction</emphasis></item>
+          <item><emphasis effect="bold">a</emphasis> ÷ <emphasis effect="bold">b</emphasis> denotes <emphasis effect="bold">b</emphasis> is repeatedly subtracted from <emphasis effect="bold">a</emphasis> for maximum number of times.</item>
+          <item>Components<list id="id1165193043320" list-type="bulleted"><item><emphasis>Quotient</emphasis>: How much each one will get? How many times a number can be repeatedly subtracted?</item><item><emphasis>Remainder</emphasis>: How much will remain that can not be distributed?</item></list></item>
+        </list>
+        <para id="id1165193046267">Properties</para>
+        <list id="id1165193043993" list-type="bulleted">
+          <item>Not Commutative: <emphasis effect="bold">a</emphasis> ÷ <emphasis effect="bold">b</emphasis> ≠ <emphasis effect="bold">b</emphasis> ÷ <emphasis effect="bold">a</emphasis></item>
+          <item>Not Associative: (<emphasis effect="bold">a</emphasis> ÷ <emphasis effect="bold">b</emphasis>) ÷ <emphasis effect="bold">c</emphasis> ≠ <emphasis effect="bold">a</emphasis> ÷ (<emphasis effect="bold">b</emphasis> ÷ <emphasis effect="bold">c</emphasis>)</item>
+        </list>
+      </section>
+      <section id="id1165193335560">
+        <title>Exercises</title>
+        <exercise id="id1165209278624">
+          <problem id="oo-id1165208315174">
+            <para id="id1165193043562">If <emphasis effect="bold">t</emphasis> chocolates are distributed among <emphasis effect="bold">n</emphasis> students, how many choclates each student will get?</para>
+          </problem>
+          <solution id="oo-id1165193831254">
+            <para id="id1165207857743">Visualization: Distributing equally.</para>
+            <para id="id1165193043836">Visualization: Repeatedly subtracting n chocolates from t chocolates so that each student gets one.</para>
+            <para id="id8293476"><emphasis effect="bold">t</emphasis> ÷ <emphasis effect="bold">n</emphasis>.</para>
+          </solution>
+        </exercise>
+        <exercise id="id1165193044359">
+          <problem id="oo-id1165196105597">
+            <para id="id1165193046103">If each student should get <emphasis effect="bold">n</emphasis> chocolates. How many students will get chocolates if there are <emphasis effect="bold">t</emphasis> chocolates?</para>
+          </problem>
+          <solution id="oo-id1165207784780">
+            <para id="id1165194923169">Visualization: Repeatedly subtracting <emphasis effect="bold">n</emphasis> chocolates from <emphasis effect="bold">t</emphasis> chocolates because each student should get <emphasis effect="bold">n</emphasis> chocolates.</para>
+            <para id="id1165197605178"><emphasis effect="bold">t</emphasis> ÷ <emphasis effect="bold">n</emphasis>.</para>
+          </solution>
+        </exercise>
+      </section>
+    </section>
+  </content>
+</document>
